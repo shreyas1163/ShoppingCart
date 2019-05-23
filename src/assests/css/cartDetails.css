@@ -1,0 +1,32 @@
+.modalContent {
+  margin-top: 15%;
+}
+.submitButton {
+  margin-top: 10%;
+}
+.styles_closeButton__20ID4 {
+  top: 5px !important;
+  right: 5px !important;
+}
+.styles_modal__gNwvD {
+  border-radius: 5px;
+  width: 30%;
+}
+.top {
+  border-top-style: groove;
+  border-right-style: hidden;
+  border-bottom-style: groove;
+  border-left-style: hidden;
+}
+.Edit {
+  cursor: pointer;
+}
+.controls {
+  font-size: 20px;
+}
+.form-control{
+  width: 50% !important;
+}
+.editBtn{
+  margin-top: 5%;
+}
